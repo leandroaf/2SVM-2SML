@@ -30,6 +30,3 @@
 * Java 7;
 * Eclipse EuGENia;
 * Eclipse Graphical Modeling Framework (GMF).
-
-
-# TwoSML-TwoSVM

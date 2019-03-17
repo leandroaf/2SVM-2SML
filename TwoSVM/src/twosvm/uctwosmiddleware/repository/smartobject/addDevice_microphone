@@ -1,0 +1,18 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_microphone</scriptName>
+  <smartObject>
+    <smartObjectName>microphone</smartObjectName>
+    <superType>microphone</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>soundSensor</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>KY-038 Microphone</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gmf_dashboard/domainGenerationModel=platform\:/resource/TwoSML-v5/model/TwoSML.genmodel
+gmf_dashboard/domainModel=platform\:/resource/TwoSML-v5/model/TwoSML.ecore
+gmf_dashboard/generationModel=platform\:/resource/TwoSML-v5/model/TwoSML.gmfgen
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/TwoSML-v5/model/TwoSML.gmfgraph
+gmf_dashboard/mappingModel=platform\:/resource/TwoSML-v5/model/TwoSML.gmfmap
+gmf_dashboard/toolingDefinitionModel=platform\:/resource/TwoSML-v5/model/TwoSML.gmftool

@@ -1,0 +1,17 @@
+<scrDescriptionUR>
+  <scriptName>addUser_student</scriptName>
+  <userRole>
+    <userRoleName>student</userRoleName>
+    <superType>student</superType>
+    <amountCanUse>2</amountCanUse>
+    <amountIsOwnerOf>0</amountIsOwnerOf>
+    <smartObjectNameAL>
+      <string>smartwhite</string>
+      <string>laptop</string>
+    </smartObjectNameAL>
+    <ubiAppAL>
+      <string>notes</string>
+    </ubiAppAL>
+  </userRole>
+  <commands></commands>
+</scrDescriptionUR>

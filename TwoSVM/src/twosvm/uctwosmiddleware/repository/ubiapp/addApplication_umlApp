@@ -1,0 +1,9 @@
+<twosvm.model.models.ModelDescriptionUA>
+  <scriptName>addApplication_umlApp</scriptName>
+  <ubiApp>
+    <ubiAppName>umlApp</ubiAppName>
+    <superType>umlApp</superType>
+    <ubiAppFeatures/>
+  </ubiApp>
+  <commands></commands>
+</twosvm.model.models.ModelDescriptionUA>

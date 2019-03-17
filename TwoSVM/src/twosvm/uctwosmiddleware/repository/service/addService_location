@@ -1,0 +1,9 @@
+<scriDescriptionSer>
+  <scriptName>addService_location</scriptName>
+  <service>
+    <serviceName>location</serviceName>
+    <superType>location</superType>
+    <serviceFeatures/>
+  </service>
+  <commands></commands>
+</scriDescriptionSer>

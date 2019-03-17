@@ -1,0 +1,36 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_tablet</scriptName>
+  <smartObject>
+    <smartObjectName>tablet</smartObjectName>
+    <superType>tablet</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>accelerometerTablet</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>MPL Accelerometer</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>magneticFieldTablet</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>AKM Magnetic Field</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>orientationTablet</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>Orientation</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>operatingSystemTablet</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>SOFTWARE</featureType>
+        <featureDescription>Android SDK: 23 (6.0)</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

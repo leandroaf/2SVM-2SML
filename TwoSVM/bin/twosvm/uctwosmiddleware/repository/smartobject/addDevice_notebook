@@ -1,0 +1,30 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_notebook</scriptName>
+  <smartObject>
+    <smartObjectName>notebook</smartObjectName>
+    <superType>notebook</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>displayNotebook</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>retinaDisplay</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>operatingSystemNotebook</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>SOFTWARE</featureType>
+        <featureDescription>linux</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>videoNotebook</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>nvidiaGeforce</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

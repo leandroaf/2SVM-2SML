@@ -1,0 +1,18 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_smartboard</scriptName>
+  <smartObject>
+    <smartObjectName>smartboard</smartObjectName>
+    <superType>smartboard</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>displaySmartboard</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>LCD Display</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

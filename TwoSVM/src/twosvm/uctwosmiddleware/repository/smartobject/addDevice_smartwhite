@@ -1,0 +1,15 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_smartwhite</scriptName>
+  <smartObject>
+    <smartObjectName>smartwhite</smartObjectName>
+    <superType>smartboard</superType>
+    <canUse>true</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL/>
+    <userRoleCU>
+      <string>professor</string>
+      <string>student</string>
+    </userRoleCU>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

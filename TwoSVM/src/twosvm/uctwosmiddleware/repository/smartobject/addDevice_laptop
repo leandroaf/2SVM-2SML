@@ -1,0 +1,15 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_laptop</scriptName>
+  <smartObject>
+    <smartObjectName>laptop</smartObjectName>
+    <superType>notebook</superType>
+    <canUse>true</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL/>
+    <userRoleCU>
+      <string>professor</string>
+      <string>student</string>
+    </userRoleCU>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

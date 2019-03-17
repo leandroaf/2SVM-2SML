@@ -1,0 +1,7 @@
+airConditioning
+camera
+light
+printer
+smartboard
+smartphone
+tablet

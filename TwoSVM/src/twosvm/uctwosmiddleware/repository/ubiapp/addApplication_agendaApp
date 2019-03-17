@@ -1,0 +1,9 @@
+<twosvm.model.models.ModelDescriptionUA>
+  <scriptName>addApplication_agendaApp</scriptName>
+  <ubiApp>
+    <ubiAppName>agendaApp</ubiAppName>
+    <superType>agendaApp</superType>
+    <ubiAppFeatures/>
+  </ubiApp>
+  <commands></commands>
+</twosvm.model.models.ModelDescriptionUA>

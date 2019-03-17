@@ -1,0 +1,21 @@
+<scrDescriptionUR>
+  <scriptName>addUser_professor</scriptName>
+  <userRole>
+    <userRoleName>professor</userRoleName>
+    <superType>professor</superType>
+    <amountCanUse>4</amountCanUse>
+    <amountIsOwnerOf>0</amountIsOwnerOf>
+    <smartObjectNameAL>
+      <string>smartphone</string>
+      <string>androidtablet</string>
+      <string>laptop</string>
+      <string>smartwhite</string>
+    </smartObjectNameAL>
+    <ubiAppAL>
+      <string>notes</string>
+      <string>slidesApp</string>
+      <string>calendar</string>
+    </ubiAppAL>
+  </userRole>
+  <commands></commands>
+</scrDescriptionUR>

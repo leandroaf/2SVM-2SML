@@ -1,0 +1,9 @@
+<twosvm.model.models.ModelDescriptionUA>
+  <scriptName>addApplication_climatizationApp</scriptName>
+  <ubiApp>
+    <ubiAppName>climatizationApp</ubiAppName>
+    <superType>climatizationApp</superType>
+    <ubiAppFeatures/>
+  </ubiApp>
+  <commands></commands>
+</twosvm.model.models.ModelDescriptionUA>

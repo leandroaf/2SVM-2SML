@@ -1,0 +1,7 @@
+# Tracing options for the TwoSML-v5.diagram plug-in
+
+# Common issues
+TwoSML-v5.diagram/debug=false
+
+# Visual IDs
+TwoSML-v5.diagram/debug/visualID=false

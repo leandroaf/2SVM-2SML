@@ -1,0 +1,11 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_soundSensor</scriptName>
+  <smartObject>
+    <smartObjectName>soundSensor</smartObjectName>
+    <superType>microphone</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL/>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

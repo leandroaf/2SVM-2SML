@@ -1,0 +1,18 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_airConditioning</scriptName>
+  <smartObject>
+    <smartObjectName>airConditioning</smartObjectName>
+    <superType>airConditioning</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>thermostatAirConditioning</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>Robertshaw Thermostat</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

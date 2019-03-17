@@ -1,0 +1,9 @@
+<twosvm.model.models.ModelDescriptionUA>
+  <scriptName>addApplication_textEditor</scriptName>
+  <ubiApp>
+    <ubiAppName>textEditor</ubiAppName>
+    <superType>textEditor</superType>
+    <ubiAppFeatures/>
+  </ubiApp>
+  <commands></commands>
+</twosvm.model.models.ModelDescriptionUA>

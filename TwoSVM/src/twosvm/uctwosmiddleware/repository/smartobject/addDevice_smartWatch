@@ -1,0 +1,24 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_smartWatch</scriptName>
+  <smartObject>
+    <smartObjectName>smartWatch</smartObjectName>
+    <superType>smartWatch</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>heatRate</featureName>
+        <featureCategory>SENSOR</featureCategory>
+        <featureType>SOFTWARE</featureType>
+        <featureDescription>Heat Rate</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>operatingSystemSmartwatch</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>SOFTWARE</featureType>
+        <featureDescription>Android Wear</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

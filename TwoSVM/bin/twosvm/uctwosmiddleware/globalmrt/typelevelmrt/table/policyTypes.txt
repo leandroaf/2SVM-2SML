@@ -1,0 +1,5 @@
+gasDetector
+noiseLevel
+smokeDetector
+moveTextEditor
+turnOnLight

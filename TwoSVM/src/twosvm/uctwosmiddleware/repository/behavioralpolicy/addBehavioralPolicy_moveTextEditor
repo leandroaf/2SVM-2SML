@@ -1,0 +1,22 @@
+<scriBehPol>
+  <scriptName>moveTextEditor</scriptName>
+  <behPolicy>
+    <policyName>moveTextEditor</policyName>
+    <behEventAL>
+      <twosvm.model.behavioralpolicy.BehEvent>
+        <eventName>changeLocation</eventName>
+        <description>smartwhite</description>
+      </twosvm.model.behavioralpolicy.BehEvent>
+    </behEventAL>
+    <behCondition>
+      <conditionName>changeLocation</conditionName>
+      <description>(contextChange.user.userTypeSS() == &quot;student&quot;) &amp;&amp; (contextChange.user.appTypeSS() == &quot;notes&quot;) &amp;&amp; (contextChange.user.deviceLocationSS() == &quot;smartwhite&quot;)</description>
+    </behCondition>
+    <behActionAL>
+      <twosvm.model.behavioralpolicy.BehAction>
+        <actionName>moveApplication</actionName>
+        <description>(notes, smartwhite)</description>
+      </twosvm.model.behavioralpolicy.BehAction>
+    </behActionAL>
+  </behPolicy>
+</scriBehPol>

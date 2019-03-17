@@ -1,0 +1,14 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_smartphone</scriptName>
+  <smartObject>
+    <smartObjectName>smartphone</smartObjectName>
+    <superType>smartphone</superType>
+    <canUse>true</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL/>
+    <userRoleCU>
+      <string>professor</string>
+    </userRoleCU>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

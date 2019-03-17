@@ -1,0 +1,11 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_rfidReader</scriptName>
+  <smartObject>
+    <smartObjectName>rfidReader</smartObjectName>
+    <superType>rfidReader</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL/>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>

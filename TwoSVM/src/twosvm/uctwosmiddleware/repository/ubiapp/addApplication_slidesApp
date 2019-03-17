@@ -1,0 +1,9 @@
+<twosvm.model.models.ModelDescriptionUA>
+  <scriptName>addApplication_slidesApp</scriptName>
+  <ubiApp>
+    <ubiAppName>slidesApp</ubiAppName>
+    <superType>slides</superType>
+    <ubiAppFeatures/>
+  </ubiApp>
+  <commands></commands>
+</twosvm.model.models.ModelDescriptionUA>

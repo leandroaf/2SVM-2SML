@@ -1,0 +1,18 @@
+<scriDescriptionSO>
+  <scriptName>addDevice_camera</scriptName>
+  <smartObject>
+    <smartObjectName>camera</smartObjectName>
+    <superType>camera</superType>
+    <canUse>false</canUse>
+    <isOwnerOf>false</isOwnerOf>
+    <featureAL>
+      <twosvm.model.smartobject.feature.Feature>
+        <featureName>lens</featureName>
+        <featureCategory>IO_RESOURCE</featureCategory>
+        <featureType>HARDWARE</featureType>
+        <featureDescription>SLR Camera 3 Lens</featureDescription>
+      </twosvm.model.smartobject.feature.Feature>
+    </featureAL>
+  </smartObject>
+  <commands></commands>
+</scriDescriptionSO>
